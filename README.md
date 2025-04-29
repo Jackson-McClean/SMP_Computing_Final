@@ -528,12 +528,12 @@ Amphibia Web. 2009. Chytrid swabbing protocol. Website https://amphibiaweb.org [
 
 Fischer, M. C. and T. W. J. Garner. 2020. Chytrid fungi and global amphibian declines. Nature Reviews Microbiology 18: 332-343.
 
-Haddock, S. H. D. and C. W. Dunn. Chapter 7: Components of Programming. *In* S. H. D. Haddock and C. W. Dunn [eds.], Practical Computing for Biologists. Sinauer Associates, Inc. X Publishers, Sunderland, Massachusetts, U.S.A.
+Haddock, S. H. D. and C. W. Dunn. Chapter 7: Components of Programming. *In* S. H. D. Haddock and C. W. Dunn [eds.], Practical Computing for Biologists. Sinauer Associates, Inc. X Publishers, Sunderland,                 Massachusetts, U.S.A.
 
 Kilpatrick, A. M., C. J. Briggs, and P. Daszak. 2010. The ecology and impact of chytridiomycosis: an emerging disease of amphibians. Trends in Ecology and Evolution 25: 109-118.
 
 Nature on PBS. 2024. Frogs are going extinct - here's how we can save them | WILD HOPE. YouTube. Website https://www.youtube.com/watch?v=WXK6fTluM48 [accessed 28 Apr 2025].
 
-Salice, C. J., C. L. Rowe, J. H. K. Pechmann, and W. A. Hopkins. 2011. Multiple stressors and complex life cycles: insights from a population-level assessment of breeding site contamination and terrestrial habitat loss in an amphibian. Environmental Toxiology and Chemistry 30: 2874-2882. 
+Salice, C. J., C. L. Rowe, J. H. K. Pechmann, and W. A. Hopkins. 2011. Multiple stressors and complex life cycles: insights from a population-level assessment of breeding site contamination and terrestrial               habitat loss in an amphibian. Environmental Toxiology and Chemistry 30: 2874-2882. 
 
 Sun, S., M. J. Hoy, and J. Heitman. 2020. Fungal Pathogens. Current Biology 30: 1163-1169. 
