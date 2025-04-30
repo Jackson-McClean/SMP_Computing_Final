@@ -1,4 +1,4 @@
-# A Fungus Among Us: Retrospective Fungi in Maryland's Computational Survey of Chtrid 
+# A Fungus Among Us: Retrospective Fungi in Maryland's Computational Survey of Chytrid 
 
 ## Jackson McClean
 
